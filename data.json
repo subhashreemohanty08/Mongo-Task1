@@ -1,0 +1,175 @@
+[
+    {
+        "movie_name": "Andhadhun",
+        "genre": [
+            "Thriller",
+            "Comedy" 
+            
+        ],
+        "media": {
+            "image": "https://www.imdb.com/title/tt8108198/mediaindex",
+            "video": "https://www.imdb.com/video/vi3468409369?playlistId=tt8108198&ref_=tt_pr_ov_vi"
+        },
+        "artist_info":[
+         {
+            "artist_name":"Ayushman Khurrana",
+            "skills":[
+                "Acting",
+                "Singing"
+            ], 
+            "role":"Akash"
+        }, 
+        {
+             "artist_name":"Radhika Apte",
+             "skills":"Acting",
+             "role":"Sophie"
+        }         
+            
+        ],
+        "user_Info":[ 
+            {
+            "user_name": "user1",
+            "review": "Excellent" 
+        },
+        {
+            "user_name":"user2",
+            "review":"very good"
+        }
+    ]
+}, 
+    {
+        "movie_name": "Dream Girl",
+        "genre":[ 
+            "Romance",
+            "Comedy"
+        ],
+        "media": {
+            "image": "https://www.imdb.com/title/tt9248940/",
+            "video":"https://www.imdb.com/video/vi155434009?playlistId=tt9248940&ref_=tt_ov_vi"
+        },
+        "artist_info":[
+            {
+                "artist_name":"Ayushman Khurrana",
+                "skills":[
+                    "Acting",
+                    "Singing",
+                    "Dancing"
+                ],
+                "role":[
+                    "Karam",
+                    "Pooja"
+                ]
+
+            },
+            {
+                "artist_name":"Nushrratt Bharuccha",
+                "skills":"Acting",
+                "role":"Mahi"
+            }
+        ], 
+            
+        "user_Info":[
+        {
+            "user_name": "user2",
+            "review": "very good"
+        },
+        {
+            "user_name":"user3",
+            "review":"good"
+        }
+    ]
+    },
+    {
+        "movie_name": "Shutter Island",
+        "genre": [
+            "Mystery",
+            "Thriller"
+        ],
+        "media": {
+            "image":"https://www.imdb.com/title/tt1130884/mediaindex",
+            "video": "https://www.imdb.com/video/vi4064281?playlistId=tt1130884&ref_=tt_ov_vi"
+        },
+        "artist_info": {
+            "artist_name": "Leonardo Dicaprio",
+            "skills": [
+                "Actor",
+                "Producer"
+            ],
+            "role": "Teddy Daniels"
+        },
+        "user_Info": {
+            "user_name": "user1",
+            "review": "good"
+        }
+    },
+    {
+        "movie_name": "Avengers",
+        "genre": [
+            "Action",
+            "Adventure",
+            "Drama"
+        ],
+        "media": {
+            "image": "https://www.imdb.com/title/tt4154796/mediaviewer/rm2775147008/",
+            "video": "https://www.imdb.com/video/vi2163260441?playlistId=tt4154796&ref_=tt_ov_vi"
+        },
+        "artist_info": [
+            {
+                "artist_name": "Robert Downey Jr",
+                "skills": [
+                    "Actor",
+                    "Producer"
+                ],
+                "role": "Tony Stark"
+            },
+            {
+                "artist_name": "Chris Evans",
+                "skills": "Actor",
+                "role": "Steve Rogers"
+            },
+            {
+                "artist_name": "Mark Ruffalo",
+                "skills": [
+                    "Actor",
+                    "Producer"
+                ],
+                "role": "Bruce Banner"
+            }
+        ],
+        "user_Info": [
+            {
+                "user_name": "user1",
+                "review": "very good"
+            },
+            {
+                "user_name": "user3",
+                "review": "excellent"
+            },
+            {
+                "user_name": "user5",
+                "review": "excellent"
+            }
+        ]
+    },
+    {
+        "movie_name": "President Evil",
+        "genre": [
+            "Comedy",
+            "Horror"
+        ],
+        "media": {
+            "video": "https://www.imdb.com/video/vi2146548249?playlistId=tt8638524&ref_=tt_ov_vi"
+        },
+        "artist_info": {
+            "artist_name": "Ryan Quinn",
+            "skills": "Actor",
+            "role": "David"
+        },
+        "user_Info": {
+            "user_name": "user4",
+            "review": "good"
+        }
+    }
+]
+
+
